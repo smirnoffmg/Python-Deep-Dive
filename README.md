@@ -22,3 +22,4 @@ Mastering the Core Python Mechanics and Advanced Techniques
 - [Python C Extensions](/Python%20C%20Extensions/README.md)
 - [Concurrency and Parallelism](/Concurrency%20and%20Parallelism/README.md)
 - [Profiling in Python](/Profiling%20in%20Python/README.md)
+- [Descriptors and Properties](/Descriptors%20and%20Properties/README.md)
