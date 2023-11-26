@@ -15,3 +15,4 @@ Mastering the Core Python Mechanics and Advanced Techniques
 - [Memory Management and Garbage Collection](/Memory%20Management%20and%20Garbage%20Collection/README.md)
 - [Asynchronous Programming with asyncio](/Asynchronous%20Programming%20with%20asyncio/README.md)
 - [Metaprogramming and Metaclasses](/Metaprogramming%20and%20Metaclasses/README.md)
+- [Python's Abstract Syntax Trees (AST)](/Python%E2%80%99s%20Abstract%20Syntax%20Trees%20%28AST%29/README.md)
