@@ -7,7 +7,10 @@ Mastering the Core Python Mechanics and Advanced Techniques
 
 ## Books to Read
 
-- 
+- "Learning Python" by Mark Lutz
+- "Fluent Python" by Luciano Ramalho
+- "Effective Python" by Brett Slatkin
+- "Python Cookbook" by David Beazley and Brian K. Jones
 
 ## Table of Contents
 
