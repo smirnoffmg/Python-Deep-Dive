@@ -20,3 +20,4 @@ Mastering the Core Python Mechanics and Advanced Techniques
 - [Metaprogramming and Metaclasses](/Metaprogramming%20and%20Metaclasses/README.md)
 - [Python's Abstract Syntax Trees (AST)](/Python%E2%80%99s%20Abstract%20Syntax%20Trees%20%28AST%29/README.md)
 - [Python C Extensions](/Python%20C%20Extensions/README.md)
+- [Concurrency and Parallelism](/Concurrency%20and%20Parallelism/README.md)
